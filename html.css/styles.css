@@ -1,17 +1,21 @@
+body{
+
+    background-color: rgba(9, 108, 196, 0.158);
+}
 .cabeçalho{
 
-    background-color:#023d02;
+    background-color:#2943b6;
     color:bisque
 }
 
 .conteúdo{
 
-    background-color: #023d02;
+    background-color: #2943b6;
     color:bisque;
 }
 
 .footer{
 
-    background-color: #023d02;
+    background-color: #2943b6;
     color:bisque
 }
